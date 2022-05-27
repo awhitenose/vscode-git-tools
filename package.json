@@ -1,8 +1,10 @@
 {
   "name": "explorerGitTools",
-	"displayName": "Explorer Git Tools",
-	"description": "Git context menu commands to run from file explorer",
+	"displayName": "File Explorer Git Tools",
+	"description": "Git commands in File Explorer context menu",
+	"keywords": ["git", "menu", "explorer"],
 	"version": "1.0.0",
+	"icon": "images/icon.png",
 	"repository": {
 	    "type": "git",
 	    "url": "https://github.com/awhitenose/vscode-git-tools.git"
