@@ -8,6 +8,16 @@ This simple extension adds "Git Stage" and "Git Unstage" commands to vscode's fi
 
 Note: Both are safe to use multiple times or to be clicked for already tracked files - modifies index but not the working tree. I could not find a way to dynamically enable/disable context menu items in the file explorer.
 
+### New menu items in the file explorer context menu
+
+![New menu items](./images/screenshot1.png)
+
+### File staged
+
+![File staged - File Explorer](./images/screenshot2.png)
+
+![File staged - Source Control](./images/screenshot3.png)
+
 ## Release Notes
 
 ### 1.0.0
@@ -16,7 +26,7 @@ Initial release
 
 ## Contribution
 
-This extension is 30 minutes micro project and my first one for vscode which I created when got a bit tired from typing "git add" once again :) Contributions are welcome!
+This extension is my first one for vscode which I created when got a bit tired from typing "git add" once again :) Contributions are welcome!
 
 ---
 
