@@ -14,9 +14,7 @@ Note: Both are safe to use multiple times or to be clicked for already tracked f
 
 ### File staged
 
-![File staged - File Explorer](./images/screenshot2.png)
-
-![File staged - Source Control](./images/screenshot3.png)
+![File staged - File Explorer](./images/screenshot2.png) ![File staged - Source Control](./images/screenshot3.png)
 
 ## Release Notes
 
